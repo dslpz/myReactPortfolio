@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/photo-port/static/css/main.9baeafd4.css",
+    "main.js": "/photo-port/static/js/main.5d89908a.js",
+    "static/media/background.jpg": "/photo-port/static/media/background.91050164db076a5829b2.jpg",
+    "static/media/colorful.png": "/photo-port/static/media/colorful.cb899615993d8f46eaf0.png",
+    "static/media/scholarshipapp.jpg": "/photo-port/static/media/scholarshipapp.e58fe865652cb227bee9.jpg",
+    "index.html": "/photo-port/index.html",
+    "main.9baeafd4.css.map": "/photo-port/static/css/main.9baeafd4.css.map",
+    "main.5d89908a.js.map": "/photo-port/static/js/main.5d89908a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9baeafd4.css",
+    "static/js/main.5d89908a.js"
+  ]
+}
